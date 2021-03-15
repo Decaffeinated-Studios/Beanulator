@@ -5,4 +5,4 @@ This repository is the public tracker for Beanulator. This is where
 [feedback](https://github.com/Beanulator/Beanulator/issues/new) can be made, and 
 [discussions](https://github.com/Beanulator/Beanulator/discussions) can be held.
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/Beanulator/The-Beanulator/blob/master/LICENSE)
+![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
