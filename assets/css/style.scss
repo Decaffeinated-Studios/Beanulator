@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #181818;
+    color: #bac1c4;
+  }
+}
