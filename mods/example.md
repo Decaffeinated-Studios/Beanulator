@@ -4,7 +4,7 @@ Short description
 ## About
 Long description
 
-## How to install
-Install instructions
+## Assets
+Where to download and install mod asset bundles
 
 ## Etc.
