@@ -25,15 +25,17 @@ Have a mod you want endorsed? Make a pull request to add it! More often than not
 ### Installing a Mod
 First of all, installing a mod is fairly easy. In Nuclear's words, it's easier than installing a Minecraft mod. All you need to do is take the AssetBundle(s) and the corresponding manifest(s) provided by the modder and put it in the persistent storage. See the table below for where persistent storage is located on your platform.
 
-| Platform | Path                                                                 |
-|----------|----------------------------------------------------------------------|
-| Windows  | `%userprofile%\AppData\LocalLow\Decaffeinated Studios\Beanulator 3D` |
-| Linux    | `~/.config/unity3d/Decaffeinated Studios/Beanulator 3D`              |
-| MacOS    | `~/Library/Application Support/Decaffeinated Studios/Beanulator 3D`  |
+| Platform | Path                                                                  |
+|----------|-----------------------------------------------------------------------|
+| Windows  | `%userprofile%\AppData\LocalLow\Decaffeinated Studios\Beanulator 3D`  |
+| Linux    | `~/.config/unity3d/Decaffeinated Studios/Beanulator 3D`               |
+| MacOS    | `~/Library/Application Support/com.DecaffeinatedStudios.Beanulator3D` |
+
+You can ensure your mod has been installed by checking settings in Beanulator. Clicking the `Mods` button will show a list of all mods installed.
 
 ### Making a Mod
-Full moding instructions can be found at https://beanulator.tk/mod-tutorial.pdf.
-In addition, the modder version can be found [here](https://beanulator.tk/modder.html). This is hosted on the website rather than GitHub because it's not part of the core game and we don't want too many assets. 
+Full moding instructions can be found at [od-tutorial.pdf](https://beanulator.tk/mod-tutorial.pdf).
+In addition, the modder version can be found [here](https://beanulator.tk/modder.zip). This is hosted on the website rather than GitHub because it's not part of the core game and we don't want too many assets. 
 
 ## Relation to Killer Bean
 "Wait a minute," you might be asking. "Those beans remind me of the ones from Killer Bean 2.1!"
