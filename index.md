@@ -18,6 +18,10 @@ description: 'Action • Violence • Glory'
 ## Modding
 Beanulator is a project extremely reliant on the community, we want it to be expanded by the community too! Here's some tips on how you can add your ideas as extensions to the game.
 
+### Where to Find and Distribute Mods
+Endorsed mods can be found on the [mods branch](https://github.com/Decaffeinated-Studios/Beanulator/tree/mods) of our public tracker. A description will be included in a README for each.     
+Have a mod you want endorsed? Make a pull request to add it! More often than not, we'll be happy to do so. 
+
 ### Installing a Mod
 First of all, installing a mod is fairly easy. In Nuclear's words, it's easier than installing a Minecraft mod. All you need to do is take the AssetBundle(s) and the corresponding manifest(s) provided by the modder and put it in the persistent storage. See the table below for where persistent storage is located on your platform.
 
@@ -28,7 +32,8 @@ First of all, installing a mod is fairly easy. In Nuclear's words, it's easier t
 | MacOS    | `~/Library/Application Support/Decaffeinated Studios/Beanulator 3D`  |
 
 ### Making a Mod
-Making one isn't super hard either: on the modder version there's a button that exports the AssetBundle. Use any existing Assets as examples, and build your mod from there!
+Full moding instructions can be found at https://beanulator.tk/mod-tutorial.pdf.
+In addition, the modder version can be found [here](https://beanulator.tk/modder.html). This is hosted on the website rather than GitHub because it's not part of the core game and we don't want too many assets. 
 
 ## Relation to Killer Bean
 "Wait a minute," you might be asking. "Those beans remind me of the ones from Killer Bean 2.1!"
