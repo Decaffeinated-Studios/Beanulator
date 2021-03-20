@@ -34,7 +34,7 @@ First of all, installing a mod is fairly easy. In Nuclear's words, it's easier t
 You can ensure your mod has been installed by checking settings in Beanulator. Clicking the `Mods` button will show a list of all mods installed.
 
 ### Making a Mod
-Full moding instructions can be found at [od-tutorial.pdf](https://beanulator.tk/mod-tutorial.pdf).
+Full moding instructions can be found at [mod-tutorial.pdf](https://beanulator.tk/mod-tutorial.pdf).
 In addition, the modder version can be found [here](https://beanulator.tk/modder.zip). This is hosted on the website rather than GitHub because it's not part of the core game and we don't want too many assets. 
 
 ## Relation to Killer Bean
