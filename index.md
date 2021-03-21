@@ -48,13 +48,14 @@ This is also why we won't include distinct things from the series.
 
 ## Credits
 Beanulator was contributed to by much of the community. In addition, some direct contributors include (in no particular order):
-* [Spoons](https://discord.com/users/spoons_user_id)
-* [Stoneworm](https://discord.com/users/stoneworms_user_id)
-* [Gavino](https://discord.com/users/gavinos_user_id)
-* [MegaFanZach](https://discord.com/users/zachs_user_id)
-* [JuhJuhButt](https://discord.com/users/juhs_user_id)
+* [Spoons](https://discord.com/users/525333951225528320)
+* [Stoneworm](https://discord.com/users/720122607541682199)
+* [Gavino](https://discord.com/users/325360190184620032)
+* [MegaFanZach](https://discord.com/users/476154217275457546)
+* [JuhJuhButt](https://discord.com/users/268138992606773248)
+* [Apharisc](https://discord.com/users/394498703877996547)
 
 ### The Most Important Person
-[Nuclear_diamond](https://discord.com/users/nuclears_user_id) made Beanulator what it is today. He was the only one who was actually proficient in Unity, and he did at least 99% of the technical stuff. In addition, he made the project specifically in a way that others could still add on after he laid the groundwork.
+[Nuclear_diamond](https://discord.com/users/560210323261620243) made Beanulator what it is today. He was the only one who was actually proficient in Unity, and he did at least 99% of the technical stuff. In addition, he made the project specifically in a way that others could still add on after he laid the groundwork.
 
 This project wouldn't be possible without him.
