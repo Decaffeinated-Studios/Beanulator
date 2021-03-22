@@ -23,7 +23,7 @@ Endorsed mods can be found on the [mods branch](https://github.com/Decaffeinated
 Have a mod you want endorsed? Make a pull request to add it! More often than not, we'll be happy to do so. 
 
 ### Installing a Mod
-First of all, installing a mod is fairly easy. In Nuclear's words, it's easier than installing a Minecraft mod. All you need to do is take the AssetBundle(s) and the corresponding manifest(s) provided by the modder and put it in the persistent storage. See the table below for where persistent storage is located on your platform.
+First of all, installing a mod is fairly easy. In Nuclear's words, it's easier than installing a Minecraft mod. All you need to do is take the AssetBundle(s) and the corresponding manifest(s) provided by the modder and put it in the persistent storage. See the table below for where persistent storage is located on your platform. (If you're an epic gamer and are using the command line to copy it there, note that you need backslashes (\\) in front of each space.)
 
 | Platform | Path                                                                  |
 |----------|-----------------------------------------------------------------------|
@@ -31,11 +31,12 @@ First of all, installing a mod is fairly easy. In Nuclear's words, it's easier t
 | Linux    | `~/.config/unity3d/Decaffeinated Studios/Beanulator 3D`               |
 | MacOS    | `~/Library/Application Support/com.DecaffeinatedStudios.Beanulator3D` |
 
-You can ensure your mod has been installed by checking settings in Beanulator. Clicking the `Mods` button will show a list of all mods installed.
+You can ensure your mod has been installed by checking settings in Beanulator. Clicking the `Mods` button in Beanulator settings will show a list of all mods installed.
 
 ### Making a Mod
 Full moding instructions can be found at [mod-tutorial.pdf](https://beanulator.tk/mod-tutorial.pdf).
-In addition, the modder version can be found [here](https://beanulator.tk/modder.zip). This is hosted on the website rather than GitHub because it's not part of the core game and we don't want too many assets. 
+In addition, the modder version can be found [here](https://beanulator.tk/Beanulator3D-ModMakerPackage.zip). This is hosted on here rather than the GitHub release because it's not part of the core game and we don't want too many assets.   
+Note: the PDF says that Beanulator uses Unity version 2020.3, which is incorrect: the game is developed using Unity 2020.2.0f1. This is the final version of Unity 2020.2.0. This probably doesn't affect anything, but if you're experiencing issues switching to that version may help.
 
 ## Relation to Killer Bean
 "Wait a minute," you might be asking. "Those beans remind me of the ones from Killer Bean 2.1!"
