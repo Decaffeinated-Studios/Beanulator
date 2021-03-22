@@ -35,7 +35,7 @@ You can ensure your mod has been installed by checking settings in Beanulator. C
 
 ### Making a Mod
 Full moding instructions can be found at [mod-tutorial.pdf](https://beanulator.tk/mod-tutorial.pdf).
-In addition, the modder version can be found [here](https://beanulator.tk/Beanulator3D-ModMakerPackage.zip). This is hosted on here rather than the GitHub release because it's not part of the core game and we don't want too many assets.   
+In addition, the modder version can be found [here](https://beanulator.tk/Beanulator3D-ModMakerPackage.zip). This is hosted here rather than the GitHub release because it's not part of the core game and we don't want too many assets.   
 Note: the PDF says that Beanulator uses Unity version 2020.3, which is incorrect: the game is developed using Unity 2020.2.0f1. This is the final version of Unity 2020.2.0. This probably doesn't affect anything, but if you're experiencing issues switching to that version may help.
 
 ## Relation to Killer Bean
