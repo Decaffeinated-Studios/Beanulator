@@ -1,7 +1,5 @@
 # Beanulator 
 
-![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)
-
 This repository is the public tracker for Beanulator. This is where 
 [downloads](https://github.com/Beanulator/Beanulator/releases) and 
 [general information](https://github.com/Beanulator/Beanulator/wiki) will be hosted, 
